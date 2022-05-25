@@ -1,0 +1,17 @@
+C:\Users\User\source\repos\Ednevnik2\Ednevnik2\bin\Debug\Ednevnik2.exe.config
+C:\Users\User\source\repos\Ednevnik2\Ednevnik2\bin\Debug\Ednevnik2.exe
+C:\Users\User\source\repos\Ednevnik2\Ednevnik2\bin\Debug\Ednevnik2.pdb
+C:\Users\User\source\repos\Ednevnik2\Ednevnik2\obj\Debug\Ednevnik2.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Ednevnik2\Ednevnik2\obj\Debug\Ednevnik2.Osoba.resources
+C:\Users\User\source\repos\Ednevnik2\Ednevnik2\obj\Debug\Ednevnik2.Properties.Resources.resources
+C:\Users\User\source\repos\Ednevnik2\Ednevnik2\obj\Debug\Ednevnik2.csproj.GenerateResource.cache
+C:\Users\User\source\repos\Ednevnik2\Ednevnik2\obj\Debug\Ednevnik2.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Ednevnik2\Ednevnik2\obj\Debug\Ednevnik2.exe
+C:\Users\User\source\repos\Ednevnik2\Ednevnik2\obj\Debug\Ednevnik2.pdb
+C:\Users\User\source\repos\Ednevnik2\Ednevnik2\obj\Debug\Ednevnik2.Glavna.resources
+C:\Users\User\source\repos\Ednevnik2\Ednevnik2\obj\Debug\Ednevnik2.Login.resources
+C:\Users\User\source\repos\Ednevnik2\Ednevnik2\obj\Debug\Ednevnik2.Sifarnik.resources
+C:\Users\User\source\repos\Ednevnik2\Ednevnik2\obj\Debug\Ednevnik2.Raspodela.resources
+C:\Users\User\source\repos\Ednevnik2\Ednevnik2\obj\Debug\Ednevnik2.Glavna2.resources
+C:\Users\User\source\repos\Ednevnik2\Ednevnik2\obj\Debug\Ednevnik2.upisnica.resources
+C:\Users\User\source\repos\Ednevnik2\Ednevnik2\obj\Debug\Ednevnik2.Ocena.resources
